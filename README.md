@@ -1,3 +1,3 @@
 # CSS-resume-template
 
-Incomplete resume site at the moment, stay tuned for something flashy! 
+Incomplete personal site at the moment, stay tuned for something flashy! 
