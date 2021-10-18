@@ -8,7 +8,7 @@
   font-family: "Ra-Mono";
   font-style: normal;
   font-weight: normal;
-  src: local("Ra-Mono"), url("/Ra-Mono.woff") format("woff");
+  src: url("/Ra-Mono.woff") format("woff");
 }
 
 body {
